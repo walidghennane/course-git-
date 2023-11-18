@@ -1,5 +1,5 @@
 # course-git-
-for zero web school get course
+for zero web school get a course
 
 
-#priject notes
+#project notes
